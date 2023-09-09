@@ -1,0 +1,85 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.li{
+    margin-right: 100px;
+}
+
+.korzina{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.korzina2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    width: 230px;
+}
+
+.radiator{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.checkbox2{
+    width: 300px;
+}
+
+.inputp{
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+}
+
+.testdiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.button2{
+    background-color: #444b5b;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.p3{
+    margin-left: 10px;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.button3{
+    margin-right: 30px;
+}
+
+.div{
+    height: 370px;
+}
